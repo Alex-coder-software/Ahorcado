@@ -13,6 +13,10 @@ Este proyecto es una implementación en Python del clásico juego del Ahorcado. 
 - Python 3.11
 - Módulo getpass
 
+## Contribuciones
+
+¡Las contribuciones son bienvenidas! Puedes ayudar abriendo issues para reportar problemas o sugerir mejoras. Si te gusta el proyecto, no olvides darle una estrella ⭐ en GitHub.
+
 ### Cómo clonar el proyecto
 
 Sigue estos pasos para clonar el proyecto en tu máquina local:
@@ -30,7 +34,3 @@ Sigue estos pasos para clonar el proyecto en tu máquina local:
 3.  Ejecuta el juego:
    ```bash
    python ahorcado.py
-
-## Contribuciones
-
-¡Las contribuciones son bienvenidas! Puedes ayudar abriendo issues para reportar problemas o sugerir mejoras. Si te gusta el proyecto, no olvides darle una estrella ⭐ en GitHub.
