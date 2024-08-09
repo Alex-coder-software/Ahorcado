@@ -29,7 +29,7 @@ Sigue estos pasos para clonar el proyecto en tu máquina local:
 3.  Ejecuta el juego:
    ```bash
    python ahorcado.py
-
+   ```bash
 ## Contribuciones
 
 ¡Las contribuciones son bienvenidas! Puedes ayudar abriendo issues para reportar problemas o sugerir mejoras. Si te gusta el proyecto, no olvides darle una estrella ⭐ en GitHub.
