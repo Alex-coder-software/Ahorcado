@@ -20,17 +20,15 @@ Sigue estos pasos para clonar el proyecto en tu máquina local:
 2. Navega al directorio donde quieras clonar el proyecto.
 3. Ejecuta el siguiente comando:
 
+1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/ahorcado-python.git
+   git clone https://github.com/tu-usuario/Ahorcado.git
+2. Navega al directorio del proyecto:
    ```bash
-   Ingresa al directorio del proyecto:
-   ```bash
-   cd ahorcado-python
-   ```bash
-   Ejecuta el juego:
+   cd agencia-web
+3.  Ejecuta el juego:
    ```bash
    python ahorcado.py
-   ```bash
 
 ## Contribuciones
 
